@@ -40,9 +40,6 @@
   ],
   "author": "Peter Z. Tan <peter@epigraph.us> (https://peterztan.github.io/)",
   "license": "BSD-3-Clause",
-  "dependencies": {
-    "lit": "^2.0.0"
-  },
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
     "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.1",
@@ -64,6 +61,7 @@
     "@webcomponents/webcomponentsjs": "^2.6.0",
     "deepmerge": "^4.2.2",
     "eslint": "^7.32.0",
+    "lit": "^2.1.1",
     "lit-analyzer": "^1.1.10",
     "mocha": "^9.1.1",
     "prettier": "^2.3.2",
